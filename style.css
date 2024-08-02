@@ -12,6 +12,7 @@ header {
     color: #fff;
     padding: 10px 0;
     text-align: center;
+    border: #333;
 }
 
 header h1 {
